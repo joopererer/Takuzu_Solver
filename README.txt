@@ -1,5 +1,7 @@
 
 Compilation/exécution :
+>> sudo apt-get install python3-tk
+>> pip install z3-solver
 >> python main_gp.python
 
 --------------------------
