@@ -17,6 +17,8 @@ Les tests de jeu est dans le dossier "tests/...",
   test_8x8_n2_2.tkz
   test_8x8_n3.tkz
 
+Ou tu peux trouver plus de puzzles sur le site: https://www.20minutes.fr/services/jeux/takuzu
+
 --------------------------
 #------ Update 07/05
 1. Ajouter le fichier "config", avec la paramètre "small_mode:1/0" pour les screen low-display
